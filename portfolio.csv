@@ -1,0 +1,7 @@
+ticker,value_usd,weight,change_today,type
+NOW,275.82,37.66,-3.81,long_term
+AVGO,239.1,32.64,-5.15,long_term
+NVDA,113.09,15.44,-7.34,long_term
+IREN,75.59,10.32,-5.93,trading
+ISRG,15.42,2.11,1.02,long_term
+TSLA,13.49,1.84,-11.56,trading
